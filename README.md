@@ -1,6 +1,6 @@
 ## Vist At
 
-[First, run the development server:](https://imaginify-tau-kohl.vercel.app)
+[https://imaginify-tau-kohl.vercel.app](https://imaginify-tau-kohl.vercel.app)
 
 ## Credits
 
