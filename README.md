@@ -1,4 +1,4 @@
-## Vist At
+## Visit At
 
 [https://imaginify-tau-kohl.vercel.app](https://imaginify-tau-kohl.vercel.app)
 
